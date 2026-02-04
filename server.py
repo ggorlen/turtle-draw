@@ -1,7 +1,3 @@
-# Source - https://stackoverflow.com/a/79406035
-# Posted by ggorlen, modified by community. See post 'Timeline' for change history
-# Retrieved 2026-02-04, License - CC BY-SA 4.0
-
 import asyncio
 import json
 import os
